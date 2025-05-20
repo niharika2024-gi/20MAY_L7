@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Change from B1
 
+=======
+change from B3 This is a sampletext file
+>>>>>>> B3
